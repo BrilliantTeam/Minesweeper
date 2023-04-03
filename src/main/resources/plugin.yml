@@ -1,0 +1,7 @@
+name: Minesweeper
+version: '${project.version}'
+main: engineer.skyouo.plugins.minesweeper.Minesweeper
+api-version: 1.19
+commands:
+  minesweeper:
+    description: Minesweeper.
