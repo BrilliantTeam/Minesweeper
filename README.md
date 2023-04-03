@@ -4,7 +4,7 @@
 
 僅作為技術參考使用.
 
-![](https://media.discordapp.net/attachments/969593764467314728/1056578610749788312/2.gif)
+![](https://github.com/BrilliantServer/Minesweeper/blob/main/preview.gif)
 
 ## 📃 License | 開源許可證
 
