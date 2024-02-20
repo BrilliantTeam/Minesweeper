@@ -17,5 +17,4 @@
 /minesweeper start - 開始遊戲
 
 /minesweeper stop - 結束本輪遊戲
-
 ```
