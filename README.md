@@ -2,6 +2,7 @@
 遊戲版本: 1.19 - 1.19.4
 ---
 
+[Made for 輝煌伺服器.](https://discord.gg/9c287zPpUZ)
 僅作為技術參考使用.
 
 ![](https://github.com/BrilliantServer/Minesweeper/blob/main/preview.gif)
